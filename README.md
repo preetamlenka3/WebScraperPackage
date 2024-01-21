@@ -9,10 +9,10 @@ You can install the package directly from the GitHub repository:
 ```bash
 pip install git+https://github.com/preetamlenka3/WebScraperPackage.git
 ```
-#How to Use
-##Usage ###examples/example.py
+# How to Use
+## Usage ### examples/example.py
 
-###Here's a simple example to get you going:
+### Here's a simple example to get you going:
 ```python
 from WebScraperPackage import MyWebScraper
 
@@ -32,7 +32,7 @@ links = scraper.scrape_links()
 print("Links:", links)
 ```
 
-###Run this command to see one in action:
+### Run this command to see one in action:
 ```bash
 python examples/example.py
 ```
