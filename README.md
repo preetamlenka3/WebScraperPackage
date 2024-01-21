@@ -11,7 +11,7 @@ pip install git+https://github.com/preetamlenka3/WebScraperPackage.git
 ```
 
 ##Usage
-
+###examples/example.py
 ```python
 from WebScraperPackage import MyWebScraper
 
@@ -29,4 +29,10 @@ print("Image URLs:", image_urls)
 # Scrape links from the web page
 links = scraper.scrape_links()
 print("Links:", links)
+```
+
+##Examples
+Check out the 'examples' directory for usage example.
+```bash
+python examples/example.py
 ```
