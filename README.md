@@ -36,4 +36,4 @@ print("Links:", links)
 ```bash
 python examples/example.py
 ```
-💬 Any issue or anything [here](https://github.com/preetamlenka3/preetamlenka3/issues)**
+💬 Any issue or anything [here](https://github.com/preetamlenka3/WebScraperPackage/issues)**
