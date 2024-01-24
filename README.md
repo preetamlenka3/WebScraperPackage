@@ -1,6 +1,17 @@
 # WebScraperPackage
 
-A web scraper package for extracting quotes, images, and links from web pages.
+## Description:
+Developed a Python package named "WebScraperPackage" for web scraping tasks, including extracting quotes, images, and links from web pages. Implemented using the requests library for HTTP requests, BeautifulSoup for HTML parsing, and PIL for image processing. The package offers a versatile and user-friendly interface for content extraction, making it suitable for a variety of web scraping applications.
+
+## Key Contributions:
+
+-Created a robust web scraper class with methods for extracting quotes, saving quotes to a file, scraping images, and scraping links.
+-Implemented error handling and logging for improved reliability and debugging.
+-Included support for data URLs, enhancing flexibility in handling various types of content.
+-Integrated unit tests to ensure the reliability of the package across different scenarios.
+
+##Technologies Used:
+ Python, requests, BeautifulSoup, PIL (Pillow).
 
 ## Installation
 
